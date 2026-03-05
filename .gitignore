@@ -1,0 +1,9 @@
+node_modules
+*.log
+.DS_Store
+.env
+.gemini/
+!Dockerfile
+!package.json
+!index.js
+!docker-compose.yml
