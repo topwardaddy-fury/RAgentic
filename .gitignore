@@ -7,3 +7,4 @@ node_modules
 !package.json
 !index.js
 !docker-compose.yml
+.vscode/settings.json
